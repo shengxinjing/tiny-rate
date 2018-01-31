@@ -23,6 +23,12 @@ console.log(rate(3))   // "★★★☆☆"
 
 ```
 
+## Link
+
+* [react-tiny-rate](https://github.com/shengxinjing/react-tiny-rate)
+* [vue-tiny-rate](https://github.com/shengxinjing/vue-tiny-rate)
+
+
 ## License
 
 MIT.
