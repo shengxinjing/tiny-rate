@@ -1,0 +1,25 @@
+{
+  "name": "tiny-rate",
+  "version": "0.1.0",
+  "description": "the smallest rating component for fun",
+  "main": "Rate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shengxinjing/tiny-rate"
+  },
+  "keywords": [
+    "rate",
+    "component"
+  ],
+  "author": "shengxinjing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shengxinjing/tiny-rate/issues"
+  },
+  "homepage": "https://github.com/shengxinjing/tiny-rate",
+  "devDependencies": {},
+  "dependencies": {}
+}
