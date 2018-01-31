@@ -5,8 +5,7 @@
 
 > The Smallest Rating Component
 
-## 基于[一行代码写评级组件](https://www.zhihu.com/question/46943112/answer/113583615)
-
+## based [single-line rate component](https://www.zhihu.com/question/46943112/answer/113583615)
 
 ## Installation and usage
 
